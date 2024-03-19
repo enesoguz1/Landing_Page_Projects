@@ -258,3 +258,16 @@
 }
 
 /* TEAM */
+
+#partners{
+    background-color: #efefef;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  #partners img{
+    height: 200px;
+    width: auto;
+  }
+  
+  /* PARTNERS */
