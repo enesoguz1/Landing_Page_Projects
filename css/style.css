@@ -194,3 +194,67 @@
   }
   
   /* COUNTER */
+
+#team {
+  background: url('../img/bg3.jpg');
+  width: 100%;
+  background-size: cover;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#team h1{
+  color: #fff;
+  font-size: 36px;
+}
+
+.teamTop p{
+  color: #fff;
+  font-style: italic;
+  font-weight: 300;
+  margin-bottom: 40px;
+}
+
+.teamContent h3{
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.teamContent h4{
+  color: #fff;
+  font-size: 14px;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.fa-twitter{
+  background-color: #0caeee;
+  border-radius: 50%;
+  line-height: 30px;
+  font-size: 18px;
+  width: 30px;
+  height: 30px;
+  color: #fff;
+  padding-top: 7px;
+  margin-right: 10px;
+}
+
+.fa-linkedin{
+  background-color: #0177b5;
+  border-radius: 50%;
+  line-height: 30px;
+  font-size: 18px;
+  width: 30px;
+  height: 30px;
+  color: #fff;
+  padding-top: 7px;
+}
+
+.teamContent img{
+  width: 75px;
+  height: auto;
+  border-radius: 50%;
+}
+
+/* TEAM */
