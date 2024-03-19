@@ -271,3 +271,80 @@
   }
   
   /* PARTNERS */
+
+  #contact{
+    background: url('../img/yol.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  #contact h1{
+    color: #000;
+    font-size: 36px;
+  }
+  
+  #contact p{
+    color: #000;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 300;
+    margin-bottom: 40px;
+  }
+  
+  form{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 50px;
+  }
+  
+  input, textarea{
+    border: none;
+    color: #000;
+    width: 100%;
+    background-color:#c61f27;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding: 5px 0 5px 5spx;
+  }
+  
+  input, #name{
+    width: 100%;
+    height: 50px;
+  }
+  
+  fieldset #msg{
+    color: #fff;
+    background-color:#c61f27;
+    height: 30px;
+  }
+  
+  ::-webkit-input-placeholder{
+    color: #efefef;
+  }
+  
+  .contactContent h2{
+    color: #c61f27;
+    font-size: 36px;
+    margin-top: -5px;
+  }
+  
+  .contactContent p{
+    color: #fff;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 300;
+    margin-bottom: 20px;
+  }
+  
+  .contactContent a{
+    color: #000;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  /* CONTACT */
+  
+  /* FİNİSH */
