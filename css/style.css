@@ -165,3 +165,32 @@
   }
   
   /* WORKS */
+
+  #counter{
+    background: url('../img/coding.jpg');
+    width: 100%;
+    background-size: cover;
+    padding: 50px 0 50px 0;
+  }
+  
+  .fa-clock-o{
+    font-size: 70px;
+    color: #fff;
+  }
+  
+  .fa-group{
+    font-size: 70px;
+    color: #fff;
+  }
+  
+  .fa-thumbs-up{
+    font-size: 70px;
+    color: #fff;
+  }
+  
+  #counter h1{
+    color: #fff;
+    font-size: 24px;
+  }
+  
+  /* COUNTER */
