@@ -69,3 +69,42 @@
   }
   
   /* HEADER  */
+
+  #mainContent {
+    background: url(../img/bg.png);
+    background-size: cover;
+  }
+  
+  .mainArea {
+    margin-top: 170px;
+  }
+  
+  .mainArea h1 {
+    font-size: 36px;
+    color: darkred;
+    font-weight: 400;
+    margin-bottom: 40px;
+  }
+  
+  .mainArea h2 {
+    font-size: 36px;
+    color: #fff;
+    margin-bottom: 40px;
+  }
+  
+  .mainArea p {
+    font-size: 14px;
+    color: #fff;
+    margin-bottom: 40px;
+  }
+  
+  .btn-success {
+    background-color: #c61f27;
+    border: none;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-bottom: 60px;
+  }
+  
+  /* MAİN CONTENT */
