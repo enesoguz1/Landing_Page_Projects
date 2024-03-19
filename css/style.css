@@ -108,3 +108,33 @@
   }
   
   /* MAİN CONTENT */
+
+  #services {
+    background-color: #efefef;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  .servicesTop h1 {
+    color: #c61f27;
+    font-size: 36px;
+  }
+  
+  .servicesTop p {
+    color: #000;
+    font-style: italic;
+    font-weight: 300;
+    margin-bottom: 40px;
+  }
+  
+  .fa {
+    color: #c61f27;
+  }
+  
+  .servicesContent h2 {
+    color: #c61f27;
+    font-weight: 400;
+    font-size: 24px;
+  }
+  
+  /* SERVİCES  */
