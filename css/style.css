@@ -138,3 +138,30 @@
   }
   
   /* SERVİCES  */
+
+  #works {
+    background: url('../img/bg2.jpg');
+    width: 100%;
+    background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  #works h1{
+    color: #fff;
+    font-size: 36px;
+  }
+  
+  .worksTop p {
+    color: #fff;
+    font-style: italic;
+    font-weight: 300;
+    margin-bottom: 40px;
+  }
+  
+  .worksContent img {
+    width: 300px;
+    height: auto;
+  }
+  
+  /* WORKS */
